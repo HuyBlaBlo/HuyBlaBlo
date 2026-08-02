@@ -75,10 +75,10 @@
 ##  GitHub Analytics
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=HuyBlaBlo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBlaBlo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
-  </p>
+  <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuyBlaBlo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuyBlaBlo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
+</p>
   <p>
     <img src="https://streak-stats.demolab.com/?user=HuyBlaBlo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="95%" />
   </p>
