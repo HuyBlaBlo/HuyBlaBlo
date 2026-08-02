@@ -98,11 +98,11 @@ Hãy thay "HuyBlaBlo" bên dưới bằng chính xác GitHub Username của bạ
   <summary><b>Featured Repositories</b></summary>
   <br />
 
-  <div align="center">
-    <a href="https://github.com/HuyBlaBlo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyBlaBlo&repo=HuyBlaBlo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Pinned Project" />
-    </a>
-  </div>
+ <div align="center">
+  <a href="https://github.com/HuyBlaBlo/Task-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyBlaBlo&repo=Task-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Pinned Project" />
+  </a>
+</div>
 </details>
 
 ---
