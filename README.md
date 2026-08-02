@@ -60,6 +60,7 @@
 </div>
 
 <br />
+
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages & Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
@@ -71,25 +72,25 @@
 
 ---
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
- <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=HuyBlaBlo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HuyBlaBlo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
-</p>
-  <p>
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=HuyBlaBlo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HuyBlaBlo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
+  </p>
+  <p align="center">
     <img src="https://streak-stats.demolab.com/?user=HuyBlaBlo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="95%" />
   </p>
 </div>
 
 ---
 
-##  Featured Repositories
+## Featured Repositories
 
 <div align="center">
   <a href="https://github.com/HuyBlaBlo/Task-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyBlaBlo&repo=Task-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Task App Project" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=HuyBlaBlo&repo=Task-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Task App Project" />
   </a>
 </div>
 
