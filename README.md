@@ -46,8 +46,8 @@
 
 - Core Track: Software Engineering student with a focus on Java & Backend concepts.
 - Environment: Daily Arch Linux user — exploring CLI workflows and Linux basics.
-- Technical Focus: Learning Spring Boot, RESTful APIs, and Relational Databases (PostgreSQL / MySQL).
-- Mindset: Building strong Computer Science fundamentals to write better and maintainable code.
+- Technical Focus: Learning Spring Boot, RESTful APIs, and Relational Databases (PostgreSQL / MySQL)
+- Mindset:
 
 ---
 
